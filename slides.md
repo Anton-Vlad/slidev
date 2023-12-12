@@ -59,7 +59,7 @@ h1 {
 transition: slide-up
 ---
 
-# What I wanted to improve <b>this year</b>
+# What I wanted to improve this year
 
 - 📝 **Laravel Queues,Jobs & Commands** - I wanted to improve the way I write them and the time it takes to fix a possible issue in production (live debugging)
 
@@ -80,7 +80,7 @@ h1 {
 transition: fade-out
 ---
 
-# What I want to improve <b>next year</b>
+# What I want to improve next year
 
 - 🎥 **Vue3** - I want to continue to improve how to use vue3
 - 🛠 **Tools** - I want to improve the way I make use of the available tools for development (like chatGPT, Postman, Waydev API)
@@ -120,4 +120,4 @@ class: text-center
 
 # The End
 
-[Documentations](https://docs.waydev.co/docs) · [GitHub](https://github.com/) · [Atlassian](https://support.atlassian.com/jira-software-cloud/)
+[Documentation](https://docs.waydev.co/docs) · [GitHub](https://github.com/) · [Atlassian](https://support.atlassian.com/jira-software-cloud/)
